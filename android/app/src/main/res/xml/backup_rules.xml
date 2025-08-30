@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude specific files or directories that should not be backed up.
+         The root attribute is optional. If set to true, this rule applies to
+         the entire directory tree starting at the directory containing this
+         file. If set to false, the rule applies only to files in the same
+         directory as this file. -->
+    <exclude domain="sharedpref" path="."/>
+</full-backup-content>

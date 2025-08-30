@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Golang Bridge Test</string>
+    <string name="test_int">测试整数</string>
+    <string name="test_string">测试字符串</string>
+    <string name="test_double">测试浮点数</string>
+    <string name="test_boolean">测试布尔值</string>
+    <string name="test_json">测试JSON</string>
+    <string name="test_array">测试数组</string>
+    <string name="test_user_info">测试用户信息</string>
+    <string name="test_system_info">测试系统信息</string>
+    <string name="test_math">测试数学运算</string>
+    <string name="test_counter">测试计数器</string>
+    <string name="get_counter">获取计数</string>
+    <string name="increment_counter">增加计数</string>
+    <string name="reset_counter">重置计数</string>
+    <string name="start_http_server">启动HTTP服务</string>
+    <string name="call_http_service">调用HTTP服务</string>
+    <string name="test_http_server">测试HTTP服务</string>
+    <string name="clear_result">清除结果</string>
+    <string name="result_title">Golang返回结果</string>
+</resources>
